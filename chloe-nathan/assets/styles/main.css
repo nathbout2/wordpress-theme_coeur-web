@@ -1,0 +1,72 @@
+@font-face {
+        font-family: 'MyriadPro';
+        src: url('../fonts/MYRIADPRO-REGULAR.woff');
+}
+
+body {
+    font-family: "MYRIADPRO-REGULAR", sans-serif;
+    color: black;
+}
+
+.logopage{
+    width: 12vw;
+}
+.text{
+    color:#EC6258;
+    font-size: 5rem;
+}
+.logoipsum-btn-purple, .logoipsum-btn-purple:hover{
+    background-color: #00B4F5;
+    color:white;
+    border-color: #00B4F5;
+    width: 220px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.text1{
+    color: white;
+}
+
+.imagetext{
+    width: 500px;
+}
+.motiondesignmini{
+    width: 180px;
+}
+.graphiste1{
+    width: 180px;
+}
+.pentesteurminia{
+    width: 169px;
+}
+.nav-link{
+    color:rgba(0, 180, 245, 1) ;
+    margin-top: 20px;
+}
+
+.coeurwebtitle{
+    font-size: 4.3rem;
+}
+
+
+.container3{
+    text-align: center;
+}
+.tittle1{
+    color:#EC6258;
+}
+/*footer*/
+.footercolor{
+    background-color:#00B4F5 ;
+    }
+    .text1{
+    color: white;
+    }
+    .text2{
+    list-style-position: inside;
+    color: white;
+    }
+
+
+
+

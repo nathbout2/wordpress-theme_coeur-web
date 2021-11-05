@@ -1,0 +1,37 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<urlset xmlns="http://www.coeurweb.com/sitemap.xml"></urlset>
+	<url></url>
+		<loc>http://www.coeurweb.com/</loc>
+		<lastmod>2021-04-28</lastmod>
+		<changefreq>never</changefreq>
+		<priority>1.0</priority>
+	
+	<url></url>
+		<loc>http://www.coeurweb.com/chef-projet.php</loc>
+		<lastmod>2021-04-28</lastmod>
+		<changefreq>never</changefreq>
+		<priority>1.0</priority>
+	
+	<url></url>
+		<loc>http://www.coeurweb.com/graphiste.php</loc>
+		<lastmod>2021-04-28</lastmod>
+		<changefreq>never</changefreq>
+		<priority>1.0</priority>
+
+        <url></url>
+		<loc>http://www.coeurweb.com/motion-designer.php</loc>
+		<lastmod>2021-04-28</lastmod>
+		<changefreq>never</changefreq>
+		<priority>1.0</priority>
+
+        <url></url>
+		<loc>http://www.coeurweb.com/pentesteur.php</loc>
+		<lastmod>2021-04-28</lastmod>
+		<changefreq>never</changefreq>
+		<priority>1.0</priority>
+
+        <url></url>
+		<loc>http://www.coeurweb.com/web-designer.php</loc>
+		<lastmod>2021-04-28</lastmod>
+		<changefreq>never</changefreq>
+		<priority>1.0</priority>
